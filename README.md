@@ -1,6 +1,6 @@
 # SystemThatScale
 
-Papers on systems that scale, and also most fundamental.
+Papers on building machines that scale, and also most fundamental.
 
 | # | Date | Paper | Links |
 |---|------|-------|-------|

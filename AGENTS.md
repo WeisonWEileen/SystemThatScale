@@ -4,7 +4,7 @@ Rules for maintaining this repo. `README.md` holds one table of papers.
 
 ## README format
 
-- The intro line under the title stays exactly: `Papers on systems that scale, and also most fundamental.`
+- The intro line under the title stays exactly: `Papers on building machines that scale, and also most fundamental.`
 - Table columns, in order: `#`, `Date`, `Paper`, `Links`.
 - Sort rows newest first, by `Date`. Renumber `#` from 1 after any change.
 - `Date` is `YYYY-MM`, from the paper's first public version (for arXiv, the v1 date).
