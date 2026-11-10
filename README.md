@@ -1,6 +1,6 @@
 # SystemThatScale
 
-Papers on systems that scale, newest first.
+Papers on systems that scale, and also most fundamental.
 
 | # | Date | Paper | Links |
 |---|------|-------|-------|
