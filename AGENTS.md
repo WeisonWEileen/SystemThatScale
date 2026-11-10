@@ -8,7 +8,7 @@ Rules for maintaining this repo. `README.md` holds one table of papers.
 - Table columns, in order: `#`, `Date`, `Paper`, `Links`.
 - Sort rows newest first, by `Date`. Renumber `#` from 1 after any change.
 - `Date` is `YYYY-MM`, from the paper's first public version (for arXiv, the v1 date).
-- `Paper` is the full title in bold. If the paper has a well-known short name, add it in parentheses after the title, e.g. `**Attention Is All You Need** (Transformer)`. Skip the short name when the title already contains it.
+- `Paper` is the full title in plain text, not bold. If the paper has a well-known short name, add it in parentheses after the title, e.g. `Attention Is All You Need (Transformer)`. Skip the short name when the title already contains it.
 - Do not list authors.
 
 ## Links column
